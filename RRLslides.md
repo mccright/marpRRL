@@ -20,14 +20,11 @@ _paginate: false
 
 # rrl / Recreational Reading Log: Commercial Books  
 (*started 2022 July 25*)  
-
 ## Completed:  
 
-### Anathem. By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)  2008  
+### Anathem. By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson).  2008  
 https://en.wikipedia.org/wiki/Anathem  
 https://www.nealstephenson.com/anathem.html  
-By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)  
-See the plot summary at: https://en.wikipedia.org/wiki/Anathem#Plot_summary  
 When you are finished with the book (*or whenever...*) consider reading Stephenson's [Acknowledgments page](https://www.nealstephenson.com/acknowledgments.html) to get a sense of what parts of this story are more tightly coupled to other's ideas.  
 
 ---
@@ -37,7 +34,7 @@ https://en.wikipedia.org/wiki/The_Diamond_Age
 
 ---
 
-Darwin's Ghosts: In Search of the First Evolutionists. By [Rebecca Stott](https://en.wikipedia.org/wiki/Rebecca_Stott).  2012  
+### Darwin's Ghosts: In Search of the First Evolutionists. By [Rebecca Stott](https://en.wikipedia.org/wiki/Rebecca_Stott).  2012  
 [https://www.theguardian.com/books/2012/jun/01/darwins-ghosts-rebecca-stott-review](https://www.theguardian.com/books/2012/jun/01/darwins-ghosts-rebecca-stott-review)  
 
 ---
