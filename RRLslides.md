@@ -76,7 +76,7 @@ https://www.penguinrandomhouse.com/books/318833/the-womans-hour-by-elaine-weiss/
 # Recreational Reading Log: Open-Access Books  
 (*started 2022 July 25*)  
 
-### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935. By [Edward Mandell House](https://en.wikipedia.org/wiki/Edward_M._House) (1858–1938). 1912<sup><a href="#note1">NOTE 1</a></sup>
+### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935. By [Edward Mandell House](https://en.wikipedia.org/wiki/Edward_M._House) (1858–1938). 1912<sup>[NOTE 1](#note1)</sup>
 https://www.gutenberg.org/ebooks/6711  
 https://en.wikipedia.org/wiki/Philip_Dru:_Administrator  
 
@@ -92,7 +92,7 @@ By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett)  (1927-1987)
 
 --- 
 
-### Roger the Ranger: A Story of Border Life Among the Indians. 1893<sup><a href="#note1">NOTE 1</a></sup>  
+### Roger the Ranger: A Story of Border Life Among the Indians. 1893<sup>[NOTE 1](#note1)</sup>  
 https://www.gutenberg.org/ebooks/68694  
 By [Eliza Fanny Pollard](https://en.wikisource.org/wiki/Author:Eliza_Fanny_Pollard) (1840–1911)  
 *Historical fiction likely targeted at middle-schoolers...*
@@ -111,7 +111,7 @@ By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975)
 
 ---
 
-### Sand and Canvas: Narrative of adventures in Egypt with a sojourn among the artists in Rome. 1849<sup><a href="#note1">NOTE 1</a></sup>  
+### Sand and Canvas: Narrative of adventures in Egypt with a sojourn among the artists in Rome. 1849<sup>[NOTE 1](#note1)</sup>  
 https://www.gutenberg.org/ebooks/68780  
 By [Samuel Bevan](https://en.wikisource.org/wiki/Author:Samuel_Bevan), (1816–?) published 1849  
 
@@ -123,10 +123,14 @@ https://en.wikipedia.org/wiki/The_Call_of_the_Wild
 By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), published 1903  
 
 ---
-### My Three Years In Manipur: And Escape From The Recent Mutiny. 1891<sup><a href="#note1">NOTE 1</a></sup>  
+
+### My Three Years In Manipur: And Escape From The Recent Mutiny. 1891<sup>[NOTE 1](#note1)</sup>  
 https://www.gutenberg.org/ebooks/71726  
 https://digital.library.upenn.edu/women/grimwood/manipur/manipur.html  
 By [Ethel St. Clair Grimwood](https://en.wikipedia.org/wiki/Ethel_Grimwood) (1867 – 1928)  
+
 ---
+
 <a href="#note1">NOTE1</a>: There are issues of race, caste, class and/or religious stereotypes and related derogatory terms in the telling of this story.  In some of these stories, the author assumes the *rightness* of colonialization or of the Christian faiths and uses that assumption to justify a broad spectrum of inhumane behaviors. It is LibriVox's policy to record texts as written. This book may be hurtful to some.  
+
 ---
