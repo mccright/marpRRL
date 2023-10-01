@@ -76,32 +76,34 @@ https://www.penguinrandomhouse.com/books/318833/the-womans-hour-by-elaine-weiss/
 # Recreational Reading Log: Open-Access Books  
 (*started 2022 July 25*)  
 
-### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935. By [Edward Mandell House](https://en.wikipedia.org/wiki/Edward_M._House) (1858–1938). 1912<sup>[NOTE 1](#note1)</sup>
-https://www.gutenberg.org/ebooks/6711  
-https://en.wikipedia.org/wiki/Philip_Dru:_Administrator  
-
----
-### The shipwreck. By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769). 1762  
-https://www.gutenberg.org/ebooks/69336  
-*supported by*  "[An Universal Dictionary of the Marine]https://www.gutenberg.org/ebooks/57705." By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769).  1769    
----
-
 ### Anchorite.  1962  
 https://www.gutenberg.org/ebooks/23561  
 By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett)  (1927-1987)   
 
 --- 
 
+### Invasion. 1933  
+https://www.gutenberg.org/ebooks/29455  
+By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975)  
+
+---
+
+### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935. By [Edward Mandell House](https://en.wikipedia.org/wiki/Edward_M._House) (1858–1938). 1912<sup>[NOTE 1](#note1)</sup>
+https://www.gutenberg.org/ebooks/6711  
+https://en.wikipedia.org/wiki/Philip_Dru:_Administrator  
+
+---
+
+### The shipwreck.  By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769). 1762  
+https://www.gutenberg.org/ebooks/69336  
+*supported by*  "[An Universal Dictionary of the Marine](https://www.gutenberg.org/ebooks/57705)." By [William Falconer](https://en.wikipedia.org/wiki/William_Falconer_(poet)) (1732-1769).  1769  
+
+---
+
 ### Roger the Ranger: A Story of Border Life Among the Indians. 1893<sup>[NOTE 1](#note1)</sup>  
 https://www.gutenberg.org/ebooks/68694  
 By [Eliza Fanny Pollard](https://en.wikisource.org/wiki/Author:Eliza_Fanny_Pollard) (1840–1911)  
 *Historical fiction likely targeted at middle-schoolers...*
-
----
-
-### Invasion. 1933  
-https://www.gutenberg.org/ebooks/29455  
-By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975)  
 
 ---
 
