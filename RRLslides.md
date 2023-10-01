@@ -20,11 +20,9 @@ _paginate: false
 
 # rrl / Recreational Reading Log: Commercial Books  
 (*started 2022 July 25*)  
-## Completed:  
 
 ### Anathem. By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson).  2008  
-https://en.wikipedia.org/wiki/Anathem  
-https://www.nealstephenson.com/anathem.html  
+https://en.wikipedia.org/wiki/Anathem   
 When you are finished with the book (*or whenever...*) consider reading Stephenson's [Acknowledgments page](https://www.nealstephenson.com/acknowledgments.html) to get a sense of what parts of this story are more tightly coupled to other's ideas.  
 
 ---
