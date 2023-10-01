@@ -117,10 +117,9 @@ By [Samuel Bevan](https://en.wikisource.org/wiki/Author:Samuel_Bevan), (1816–?
 
 ---
 
-### The Call of the Wild. 1903  
+### The Call of the Wild. By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916). 1903  
 https://www.gutenberg.org/ebooks/215  
 https://en.wikipedia.org/wiki/The_Call_of_the_Wild  
-By [Jack London](https://en.wikipedia.org/wiki/Jack_London) (1876-1916), published 1903  
 
 ---
 
@@ -131,6 +130,7 @@ By [Ethel St. Clair Grimwood](https://en.wikipedia.org/wiki/Ethel_Grimwood) (186
 
 ---
 
-<a href="#note1">NOTE1</a>: There are issues of race, caste, class and/or religious stereotypes and related derogatory terms in the telling of this story.  In some of these stories, the author assumes the *rightness* of colonialization or of the Christian faiths and uses that assumption to justify a broad spectrum of inhumane behaviors. It is LibriVox's policy to record texts as written. This book may be hurtful to some.  
+### Notes  
+<a name="note1"></a><a href="#note1">NOTE1</a>: There are issues of race, caste, class and/or religious stereotypes and related derogatory terms in the telling of this story.  In some of these stories, the author assumes the *rightness* of colonialization or of the Christian faiths and uses that assumption to justify a broad spectrum of inhumane behaviors. It is LibriVox's policy to record texts as written. This book may be hurtful to some.  
 
 ---
