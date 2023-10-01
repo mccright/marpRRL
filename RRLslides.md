@@ -21,6 +21,8 @@ _paginate: false
 # rrl / Recreational Reading Log: Commercial Books  
 (*started 2022 July 25*)  
 
+---
+
 ### Anathem. By [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson).  2008  
 https://en.wikipedia.org/wiki/Anathem   
 When you are finished with the book (*or whenever...*) consider reading Stephenson's [Acknowledgments page](https://www.nealstephenson.com/acknowledgments.html) to get a sense of what parts of this story are more tightly coupled to other's ideas.  
@@ -73,8 +75,11 @@ https://www.penguinrandomhouse.com/books/318833/the-womans-hour-by-elaine-weiss/
 [https://www.nytimes.com/...books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg](https://www.nytimes.com/2015/12/06/books/review/notorious-rbg-the-life-and-times-of-ruth-bader-ginsburg.html)  
 
 ---
+
 # Recreational Reading Log: Open-Access Books  
 (*started 2022 July 25*)  
+
+---
 
 ### Anchorite.  1962  
 https://www.gutenberg.org/ebooks/23561  
@@ -86,6 +91,12 @@ By [Randall Garrett](http://en.wikipedia.org/wiki/Randall_Garrett)  (1927-1987)
 https://www.gutenberg.org/ebooks/29455  
 By [Murray Leinster](https://en.wikipedia.org/wiki/Murray_Leinster) (1896-1975)  
 
+---
+
+### The Lake.  By [Ray Bradbury](http://en.wikipedia.org/wiki/Ray_Bradbury) (1920 - 2012). 1944  
+...in "Weird Tales" volume 37, number 05, 1944, pages 76-79  
+https://archive.org/details/Weird_Tales_v37n05_1944-05_LPM-AT/page/n77/mode/2up  
+*The opportunity to read this short story is worth the hassle of finding its text on archive.org*.  
 ---
 
 ### Philip Dru: Administrator: A Story of Tomorrow, 1920-1935. By [Edward Mandell House](https://en.wikipedia.org/wiki/Edward_M._House) (1858–1938). 1912<sup>[NOTE 1](#note1)</sup>
@@ -129,6 +140,13 @@ https://en.wikipedia.org/wiki/The_Call_of_the_Wild
 https://www.gutenberg.org/ebooks/71726  
 https://digital.library.upenn.edu/women/grimwood/manipur/manipur.html  
 By [Ethel St. Clair Grimwood](https://en.wikipedia.org/wiki/Ethel_Grimwood) (1867 – 1928)  
+
+---
+
+# Recreational Reading Log: Audio Books  
+(*started 2022 July 25*)  
+
+---
 
 ---
 
