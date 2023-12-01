@@ -18,16 +18,15 @@ paginate: true
 _paginate: false
 ---
 
-# rrl / Recreational Reading Log: 
+# rrl / Recreational Reading Log:  
 
-* [Audio Books](https://mccright.github.io/rrl/AudioBooks/)  
-* [Out-of-Copywrite - Open-Access eBooks](https://mccright.github.io/rrl/OpenSourceTexts/)  
-* [Commercial and "Open Access" Books](https://mccright.github.io/rrl/Books/)  
+[Audio Books](https://mccright.github.io/rrl/AudioBooks/)  
+[Out-of-Copywrite - Open-Access eBooks](https://mccright.github.io/rrl/OpenSourceTexts/)  
+[Commercial and "Open Access" Books](https://mccright.github.io/rrl/Books/)  
 
 (*started 2022 July 25*)  
-
 ---
 
-* GitHub repository: [https://github.com/mccright/rrl](https://github.com/mccright/rrl)  
+Source GitHub repository: [https://github.com/mccright/rrl](https://github.com/mccright/rrl)  
 
 ---
