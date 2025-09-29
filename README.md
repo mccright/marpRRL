@@ -1,4 +1,9 @@
-# Marp CLI example
+# Marp CLI example  
+
+This was an experiment using MARP CLI.  I am archiving it temporarily -- before deleting it.  
+There is probably nothing useful here for you.  
+If you may be interested in slide-creators like this, I recommend going to the source at: https://github.com/marp-team/marp-cli  
+
 
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/yhatt/marp-cli-example)
 
